@@ -1,8 +1,8 @@
 ### Hi 我是 Alan , 
-逐漸茁壯的小小碼農 🌱
-目前主攻 Ruby on Rails
-正在自學 Vue.js 中
-偶爾使用 Unity3D 製作小遊戲
+- 逐漸茁壯的小小碼農 🌱
+- 目前主攻 Ruby on Rails
+- 正在自學 Vue.js 中
+- 偶爾使用 Unity3D 製作小遊戲
 
 <!--
 **pa013971/pa013971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
