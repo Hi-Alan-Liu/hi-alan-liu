@@ -1,7 +1,8 @@
-### Hi 我是 Alan , 
-- 逐漸茁壯的小小碼農 🌱
+### Hi 我是 Alan , 逐漸茁壯的小小碼農 🌱
+
+
 - 目前主攻 Ruby on Rails
-- 正在自學 Vue.js 中
+- 正在自學 Vue.js
 - 偶爾使用 Unity3D 製作小遊戲
 
 <!--
