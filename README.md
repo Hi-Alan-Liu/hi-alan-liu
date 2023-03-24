@@ -33,6 +33,7 @@
 
 ## Game
 - [黃金蘋果模擬器](https://hi-alan-liu.github.io/golden-apple/) - MapleStory 模擬抽獎小遊戲
+- [Gaole 卡序表](https://hi-alan-liu.github.io/pokemon-gaole/) - Pokemon Gaole 機台卡序填色表
 
 <!--
 **pa013971/pa013971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
