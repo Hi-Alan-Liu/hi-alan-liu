@@ -19,21 +19,24 @@
   &hide_border=true
 -->
 
-
 ### Hi 我是 Alan , 逐漸茁壯的小小碼農 🌱
 
 - 目前專職 Ruby on Rails
-- 正在自學 Vue.js, .Net
-- 偶爾使用 Unity3D 製作小遊戲
+- 正在學習 Vue.js, .Net Core
 
-### Insight
-- [Alan 程式手札](https://hi-alan-liu.github.io/blog/) - My Blog
+### Social Media
 
-### Game
+- [Blog](https://hi-alan-liu.github.io/blog/)
+- [Line](https://line.me/ti/p/bUHH742a3s)
+- [Facebook](https://www.facebook.com/profile.php?id=100000406351114)
+
+### Project
+
 - [黃金蘋果模擬器](https://hi-alan-liu.github.io/golden-apple/) - MapleStory 模擬抽獎小遊戲
 - [Gaole 卡序表](https://hi-alan-liu.github.io/pokemon-gaole/) - Pokemon Gaole 機台卡序填色表
+- [Gaole 機台地圖](https://hi-alan-liu.github.io/pokemon-gaole-map/) - Pokemon Gaole 機台地圖
 
-### Badges
+<!-- ### GitHub Stats -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-Alan-Liu&show_icons=true&hide_border=true&text_color=999999&bg_color=0,27282200,0000000F)
 
