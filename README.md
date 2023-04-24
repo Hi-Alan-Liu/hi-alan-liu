@@ -19,25 +19,25 @@
   &hide_border=true
 -->
 
-### I'm Alan Liu
+## I'm Alan Liu
 
 As a Ruby on Rails programmer
 
 I am currently learning Vue.js and .Net Core.
 
-### Social Media
+## Social Media
 
 - [Blog](https://hi-alan-liu.github.io/blog/)
 - [Line](https://line.me/ti/p/bUHH742a3s)
 - [Facebook](https://www.facebook.com/profile.php?id=100000406351114)
 
-### Side Project
+## Side Project
 
 - [黃金蘋果模擬器](https://hi-alan-liu.github.io/golden-apple/) - MapleStory Golden Apple Raffle
 - [Gaole 卡序表](https://hi-alan-liu.github.io/pokemon-gaole/) - Pokemon Gaole List
 - [Gaole 機台地圖](https://hi-alan-liu.github.io/pokemon-gaole-map/) - Pokemon Gaole Machine Map
 
-### My Statistics
+## My Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-Alan-Liu&show_icons=true&hide_border=true&text_color=999999&bg_color=0,27282200,0000000F)
 
