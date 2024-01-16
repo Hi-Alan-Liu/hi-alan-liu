@@ -42,7 +42,7 @@
 
 ## 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Hi-Alan-Liu&show_icons=true&locale=en&layout=compact&hide=css,scss,shaderbab,ejs,hlsl,glsl,stylus&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Hi-Alan-Liu&show_icons=true&locale=en&layout=compact&hide=css,scss,shaderlab,ejs,hlsl,glsl,stylus&theme=algolia)
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-Alan-Liu&show_icons=true&hide_border=true&text_color=999999&bg_color=0,27282200,0000000F)
