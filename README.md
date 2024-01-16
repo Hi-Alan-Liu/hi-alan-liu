@@ -19,31 +19,34 @@
   &hide_border=true
 -->
 
-## I'm Alan Liu
+<h1 align="center">Hi 👋, I'm Alan Liu</h1>
+<h3 align="center">A Web Developer & Cat lover</h3>
 
-As a Ruby on Rails programmer
-
-I am currently learning Vue.js and .Net Core.
-
-## Social Media
-
-- [Blog](https://hi-alan-liu.github.io/blog/)
-- [Line](https://line.me/ti/p/bUHH742a3s)
-- [Facebook](https://www.facebook.com/profile.php?id=100000406351114)
-
-## Side Project
-
-- [黃金蘋果模擬器](https://hi-alan-liu.github.io/golden-apple/) - MapleStory Golden Apple Raffle
-- [Gaole 卡序表](https://hi-alan-liu.github.io/pokemon-gaole/) - Pokemon Gaole List
-- [Gaole 機台地圖](https://hi-alan-liu.github.io/pokemon-gaole-map/) - Pokemon Gaole Machine Map
-
-## My Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-Alan-Liu&show_icons=true&hide_border=true&text_color=999999&bg_color=0,27282200,0000000F)
-
-![Github Langht](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hi-Alan-Liu&theme=transparent&exclude=CSS,JavaScript)
 <!--
-**pa013971/pa013971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
+<a href="https://instagram.com/wawa.sensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wawa.sensei" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/wawasensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wawasensei" height="30" width="40" /></a>
+-->
+
+## Languages and Tools
+<p>
+  <img height="30" width="40" alt="rubyonrails" src="https://cdn.simpleicons.org/rubyonrails">
+  <img height="30" width="40" alt="dotnet" src="https://cdn.simpleicons.org/dotnet">
+  <img height="30" width="40" alt="vuedotjs" src="https://cdn.simpleicons.org/vuedotjs">
+  <img height="30" width="40" alt="unity" src="https://cdn.simpleicons.org/unity">
+  <img height="30" width="40" alt="docker" src="https://cdn.simpleicons.org/docker">
+  <img height="30" width="40" alt="amazon" src="https://cdn.simpleicons.org/amazon">
+  <img height="30" width="40" alt="redis" src="https://cdn.simpleicons.org/redis">
+  <img height="30" width="40" alt="mysql" src="https://cdn.simpleicons.org/mysql">
+</p> 
+
+## 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Hi-Alan-Liu&show_icons=true&locale=en&layout=compact&hide=css,scss,shaderbab,ejs,hlsl,glsl,stylus&theme=algolia)
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-Alan-Liu&show_icons=true&hide_border=true&text_color=999999&bg_color=0,27282200,0000000F)
+![Github Langht](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hi-Alan-Liu&theme=transparent&exclude=CSS,JavaScript)
 
 Here are some ideas to get you started:
 
