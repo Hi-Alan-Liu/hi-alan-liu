@@ -1,0 +1,23 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天跑一次（UTC 00:00）
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: Hi-Alan-Liu
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          EXCLUDE: "CSS,SCSS,ShaderLab,EJS,HLSL,GLSL,Stylus"
+          AUTO_PUSH: true
