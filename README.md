@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://hi-alan-liu.github.io/">Website</a>
-  · 💼 <a href="https://github.com/Hi-Alan-Liu">GitHub</a>
+  🌐 <a href="https://hi-alan-liu.github.io/" target="_blank" rel="noopener noreferrer">Website</a>
+  · 💼 <a href="https://github.com/Hi-Alan-Liu" target="_blank" rel="noopener noreferrer">GitHub</a>
 </p>
 
 ---
